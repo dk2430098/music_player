@@ -11,6 +11,14 @@ A beautiful, functional, and feature-rich music player application built with **
 *   **Background Playback**: specific configuration for background audio (requires expo-av setup).
 *   **Modern UI**: Sleek, responsive design with dark mode support.
 
+## 📸 Screenshots
+
+| Home | Player |
+|:---:|:---:|
+| <img src="./assets/screenshots/home.jpg" width="300" /> | <img src="./assets/screenshots/player.jpg" width="300" /> |
+| **Queue** | **Settings** |
+| <img src="./assets/screenshots/queue.jpg" width="300" /> | <img src="./assets/screenshots/settings.jpg" width="300" /> |
+
 ## 🛠️ Tech Stack
 
 *   **Framework**: [React Native](https://reactnative.dev/) (via [Expo](https://expo.dev/))

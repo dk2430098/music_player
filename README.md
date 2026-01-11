@@ -1,10 +1,13 @@
 # 🎵 React Native Music Player
-## 📦 APK Download
-
-[Download APK from GitHub Releases](https://github.com/dk2430098/music_player/releases)
 
 
 A beautiful, functional, and feature-rich music player application built with **React Native**, **Expo**, and **JioSaavn API**.
+## 📦 Download Android APK
+
+👉 **[Click here to download the latest APK](https://github.com/dk2430098/music_player/releases)**
+
+> Download and install on any Android device to test the app.
+
 
 ## ✨ Features
 
